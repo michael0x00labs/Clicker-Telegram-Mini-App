@@ -34,7 +34,7 @@ This is the best and most complete Telegram clicker game — [click to test it o
 - **Custom Design**: Or, get a personalized clicker game.
 
 ### Pricing
-**Prices start from $1500 and vary based on your requirements.** More details: [Contact Us](https://t.me/0x00labs)
+**Prices start from $1500 and vary based on your requirements.** More details: [Contact Us](https://t.me/michael_0x00lab)
 
 ### Why Choose 0x00 Lab?
 - **Delivers Results**: We focus on achieving your project goals.
