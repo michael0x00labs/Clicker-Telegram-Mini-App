@@ -26,14 +26,14 @@
 - Source code (React + TypeScript + Vite + Node.js + Redis).
 
 ### Example Clicker
-This is the best and most complete Telegram clicker game — [click to test it out!](https://t.me/clickerw3tap_bot)
+This is the best and most complete Telegram clicker game — [click to test it out!](https://t.me/clickertest_new_bot)
 
 ### Your Options
 - **Quick Setup**: Choose a ready-made clicker.
 - **Custom Design**: Or, get a personalized clicker game.
 
 ### Pricing
-**Prices start from $1500 and vary based on your requirements.** More details: [Contact Us](https://t.me/Ram0x00Lab)
+**Prices start from $1500 and vary based on your requirements.** More details: [Contact Us](https://t.me/0x00labs)
 
 ### Why Choose 0x00 Lab?
 - **Delivers Results**: We focus on achieving your project goals.
