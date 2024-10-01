@@ -17,6 +17,7 @@
 - 🤝 **Referrals** - Invite friends and receive rewards.
 - 📝 **Tasks** - Complete tasks to earn points.
 - 🛡 **Safe** - Trustworthy server for a reliable experience.
+- 💰 **Ton Wallet** - Connect and manage your wealth with ease!
 
 ### What You Get
 - A configured bot that is already working.
