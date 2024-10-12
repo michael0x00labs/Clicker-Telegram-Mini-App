@@ -1,4 +1,4 @@
-# A Complete Clicker Telegram Mini App - Copy Hamster, NotCoin
+# A Complete Clicker Telegram Mini App - Copy Hamster, NotCoin, Duck, Dogs
 
 ![Best Complete Clicker Telegram Mini App - Copy Hamster, NotCoin](/intro.png)
 
