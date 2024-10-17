@@ -1,4 +1,5 @@
 # A Complete Clicker Telegram Mini App - Copy Hamster, NotCoin, Duck, Dogs
+# React + Vite + Nodejs + Redis + Ton
 
 ![Best Complete Clicker Telegram Mini App - Copy Hamster, NotCoin](/intro.png)
 
