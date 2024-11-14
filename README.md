@@ -3,6 +3,8 @@
 
 ![Best Complete Clicker Telegram Mini App - Copy Hamster, NotCoin](/intro.png)
 
+English | [简体中文](./README-zh_CN.md) 
+
 **We create engaging Clicker games within Telegram Mini Apps.**
 
 ### Quick Start
